@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotesCleanArch</string>
+    <string name="tiltle">Title</string>
+    <string name="date">Date</string>
+    <string name="color">Color</string>
+    <string name="descending">Descending</string>
+</resources>
